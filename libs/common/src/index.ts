@@ -12,6 +12,8 @@ export * from './dto/create-charge.dto';
 export * from './dto/user.dto';
 //Guards
 export * from './guards/jwt-auth.guard';
+//Modules
+export * from './health/health.module';
 //Logger
 export * from './logger/logger.module';
 //Models
