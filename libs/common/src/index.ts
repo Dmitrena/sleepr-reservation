@@ -6,6 +6,7 @@ export * from './database/abstract.schema';
 export * from './database/database.module';
 //Decorator
 export * from './decorators/current-user.decorator';
+export * from './decorators/roles.decorator';
 //DTO
 export * from './dto/card.dto';
 export * from './dto/create-charge.dto';
